@@ -13,6 +13,7 @@ in order to improve your programming skills.
 
 * h1 => Heading of HTML
 * center => Center the content.
+* div => Section a content.
 * p => Paraph.
 * ul => Create an unordered list.
 * ol => Create an ordered list.
@@ -21,4 +22,9 @@ in order to improve your programming skills.
 * hr => Show a line.
 * img => Implement an image.
 * a => Linking to other pages.
+* table => Create a table.
+* thead => Header's table.
+* tbody => Header's body.
+* tr => Row's table.
+* td => Cells.
 
