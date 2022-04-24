@@ -20,4 +20,5 @@ in order to improve your programming skills.
 * br => Make a break line.
 * hr => Show a line.
 * img => Implement an image.
+* a => Linking to other pages.
 
