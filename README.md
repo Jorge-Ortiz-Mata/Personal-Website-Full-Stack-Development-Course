@@ -41,6 +41,10 @@ https://jorge-ortiz-mata.github.io/Personal-Website-Full-Stack-Development-Cours
 
 ## CSS.
 
+### Rules. 
+
+Note: If you try to set CSS attributes, CSS inline is take it as priority, after the internal CSS and last, external CSS
+
 ### Attributes.
 
 * background-color => Change the background color.
