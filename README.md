@@ -2,8 +2,8 @@
 # Full-Stack Development Course.
 
 The full-stack development course consists in how to learn several web technologies using different programming languages.
-You will learn HTML, CSS, Javascript, NodeJS, React, Databases and so much more. This is a complete course that I recommend 
-in order to improve your programming skills. 
+You will learn HTML, CSS, Javascript, NodeJS, React, Databases and so much more. This is a complete course that I recommend
+in order to improve your programming skills.
 
 ## Live demo.
 
@@ -12,8 +12,6 @@ https://jorge-ortiz-mata.github.io/Personal-Website-Full-Stack-Development-Cours
 ## HTML.
 
 ### Elements
-
-#### Elements with a close tag.
 
 * h1 => Heading of HTML
 * center => Center the content.
@@ -40,3 +38,14 @@ https://jorge-ortiz-mata.github.io/Personal-Website-Full-Stack-Development-Cours
 * label => Field's description.
 * input => Form's input (text, password, color, checkbox, submit, file, date, radio, range, email).
 * textarea => Big input field.
+
+## CSS.
+
+### Attributes.
+
+* background-color => Change the background color.
+* color => Change the font color.
+* border => Draw a border of an item.
+* border-style => Change the border type.
+* width => Change the width of an element.
+* height => Change the height of an element.
