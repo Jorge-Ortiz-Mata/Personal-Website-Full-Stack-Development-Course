@@ -53,3 +53,17 @@ Note: If you try to set CSS attributes, CSS inline is take it as priority, after
 * border-style => Change the border type.
 * width => Change the width of an element.
 * height => Change the height of an element.
+
+### Classes.
+
+Classes are used to identify elements from a HTML file. Using classes, you can set the same class for many other elements.
+
+* They are declared: `class="name-class"`.
+* Inside stylesheet file: `.name-class{ attribute }`
+
+### ID's.
+
+An ID is very similar to classes. You can use ID's in order to identify elements but, insetead of classes, you can use them one for each element.
+
+* They are declared: `id="name-id"`.
+* Inside stylesheet file: `#name-id{ attribute }`.

@@ -2,9 +2,3 @@ body{
     background-color: #CAF0F8;
     color: #004250;
 }
-
-hr{
-    border: 3px solid #004250;
-    border-style: dotted none none none;
-    width: 15%;
-}
