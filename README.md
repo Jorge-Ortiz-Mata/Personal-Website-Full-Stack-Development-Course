@@ -67,3 +67,10 @@ An ID is very similar to classes. You can use ID's in order to identify elements
 
 * They are declared: `id="name-id"`.
 * Inside stylesheet file: `#name-id{ attribute }`.
+
+## Favicon.
+
+In order to create a pixel icon, you can visit https://favicon.cc 
+Once you create your own icon, you have to download and save it into the project. For example:
+
+* `<link rel="icon" href="../assets/media/favicon.ico">`.
