@@ -1,0 +1,16 @@
+
+.line-style{
+    height: 3px;
+    background-color: #004250;
+    width: 75%;
+}
+
+.father-box{
+    border: 2px solid #0000ff;
+}
+
+.box{
+    display: inline-block;
+    border: 2px solid #ff0000;
+}
+

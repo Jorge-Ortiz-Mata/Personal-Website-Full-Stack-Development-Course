@@ -5,10 +5,6 @@ The full-stack development course consists in how to learn several web technolog
 You will learn HTML, CSS, Javascript, NodeJS, React, Databases and so much more. This is a complete course that I recommend
 in order to improve your programming skills.
 
-## Live demo.
-
-https://jorge-ortiz-mata.github.io/Personal-Website-Full-Stack-Development-Course/
-
 ## HTML.
 
 ### Elements
@@ -39,6 +35,8 @@ https://jorge-ortiz-mata.github.io/Personal-Website-Full-Stack-Development-Cours
 * input => Form's input (text, password, color, checkbox, submit, file, date, radio, range, email).
 * textarea => Big input field.
 
+* span => It's used in order to set an specific style in a parraph. 
+
 ## CSS.
 
 ### Rules. 
@@ -50,6 +48,72 @@ Note: If you try to set CSS attributes, CSS inline is take it as priority, after
 * background-color => Change the background color.
 * color => Change the font color.
 * border => Draw a border of an item.
+* border-radius => It sets the element's radius.
 * border-style => Change the border type.
 * width => Change the width of an element.
 * height => Change the height of an element.
+
+### Classes.
+
+Classes are used to identify elements from a HTML file. Using classes, you can set the same class for many other elements.
+
+* They are declared: `class="name-class"`.
+* Inside stylesheet file: `.name-class{ attribute }`
+
+### ID's.
+
+An ID is very similar to classes. You can use ID's in order to identify elements but, insetead of classes, you can use them one for each element.
+
+* They are declared: `id="name-id"`.
+* Inside stylesheet file: `#name-id{ attribute }`.
+
+### Display.
+
+There are many options using display. They're used  in order to place the items better. 
+If you want to use it, see this example:
+
+* index.html
+
+```
+<div class="father-box">
+    <span class="box">Ruby on Rails.</span>
+    <span class="box">Ruby.</span>
+    <span class="box">PostgreSQL.</span>
+    <span class="box">MySQL.</span>
+    <span class="box">Javascript</span>
+    <span class="box">HTML.</span>
+    <span class="box">React.</span>
+</div>
+```
+
+* style.css
+
+```
+.box{
+    display: inline-block;
+    border: 2px solid #ff0000;
+}
+```
+
+* Inline: It places the elements inline.
+* Block: It places the elements line by line.
+* Inline-block: It's a comnbination between inline and block.
+
+## More information.
+
+In the sections below, you'll find more information used in this project.
+
+### Emojipedia.
+
+Visit to emojipedia in order to get emojis from different kind of styles. Yo can visit: https://emojipedia.org/
+
+### Favicon.
+
+In order to create a pixel icon, you can visit https://favicon.cc 
+Once you create your own icon, you have to download and save it into the project. For example:
+
+* `<link rel="icon" href="../assets/media/favicon.ico">`.
+
+### Colorhunt.
+
+Colorhunt provides Hex-Colors for your webiste. It gives you some examples of which color you can use. You can visit: https://colorhunt.co/
