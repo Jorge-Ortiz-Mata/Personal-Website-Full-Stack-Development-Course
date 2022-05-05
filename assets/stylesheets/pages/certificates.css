@@ -5,12 +5,32 @@
     width: 75%;
 }
 
-.father-box{
-    border: 2px solid #0000ff;
+.boxes{
+    border: 1px solid #0000ff;
+    text-align: center;
 }
 
-.box{
-    display: inline-block;
-    border: 2px solid #ff0000;
+.red-box, .yellow-box, .blue-box{
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+    margin: 10px;
 }
 
+.red-box{
+    background-color: #ff0000;
+}
+
+.yellow-box{
+    background-color: #ffff00;
+}
+
+.blue-box{
+    background-color: #a4a4ff;
+}
+
+.red-box p, .yellow-box p, .blue-box p{
+    color: #000000;
+    font-weight: 700;
+    margin: auto auto auto auto;
+}

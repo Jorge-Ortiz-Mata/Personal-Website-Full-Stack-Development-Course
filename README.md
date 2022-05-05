@@ -67,6 +67,24 @@ An ID is very similar to classes. You can use ID's in order to identify elements
 * They are declared: `id="name-id"`.
 * Inside stylesheet file: `#name-id{ attribute }`.
 
+### Positions and Coordinates.
+
+You can use positions and coordinates in order to place objects in the HTML file.
+
+#### Positions
+
+* Static: It's the default position of an element.
+* Relative: Where the element takes place, that is its origin.
+* Absolute: The origin of an element is set at the beginning of the parent element.
+* Fixed: It fixes an element in the webpage.
+
+#### Coordinates.
+
+* top.
+* left.
+* right.
+* bottom.
+
 ### Display.
 
 There are many options using display. They're used  in order to place the items better. 
